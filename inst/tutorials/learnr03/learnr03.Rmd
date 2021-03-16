@@ -19,7 +19,7 @@ gradethis::gradethis_setup()
 #load("df_learnr03_ep_elections.rda") # for local testing
 data(df_learnr03_ep_elections)
 ep_elections <- df_learnr03_ep_elections
-#rm(df_learnr03_ep_elections)
+rm(df_learnr03_ep_elections)
 ```
 
 ## Introduction
