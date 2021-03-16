@@ -16,10 +16,8 @@ library(tidyverse)
 gradethis::gradethis_setup()
 
 ## Data
-#load("df_learnr03_ep_elections.rda") # for local testing
-data(df_learnr03_ep_elections)
-ep_elections <- df_learnr03_ep_elections
-rm(df_learnr03_ep_elections)
+#load("ep_elections.rda") # for local testing
+data(ep_elections)
 ```
 
 ## Introduction
