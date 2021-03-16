@@ -27,4 +27,5 @@ Remotes:
     rstudio/learnr,
     rundel/learnrhash
 Depends: 
+    R (>= 2.10),
     tidyverse
